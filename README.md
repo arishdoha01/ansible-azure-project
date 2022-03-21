@@ -1,6 +1,6 @@
-# DevOps/SRE Project - Use Ansible , Azure Cloud VMs, and AzureDevops Pipelines
+# DevOps/SRE Project - Using Ansible , Azure Cloud VMs, and AzureDevops Pipelines
 
-Sample project that 
+Sample project that: 
 
    1) Creates a Linux Server in Azure, which is used as an Ansible "Controller" node
    2) Installs all required packages on the Linux server via command line (Ansible, Python, Azure)
